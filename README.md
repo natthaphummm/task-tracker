@@ -16,7 +16,7 @@ A simple command-line task tracker application. https://roadmap.sh/projects/task
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/natthaphummm/task-tracker.git
     ```
 2. Navigate to the project directory:
     ```sh
